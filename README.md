@@ -4,16 +4,15 @@ Welcome to the **CFMoto 675SS Maintenance Templates** repository — your one-st
 
 ---
 
-## 🧰 About the CFMoto 675SS
+## 📚 Useful Resources
 
-The **CFMoto 675SS** is a sporty, budget-friendly middleweight motorcycle with modern features like:
-- 675cc triple-cylinder engine
-- TFT Bluetooth dash with navigation
-- Adjustable traction control (2 levels)
-- Factory quickshifter (upshift)
-- Aggressive styling and ergonomic seating
+Here are some helpful reference documents for CFMoto 675SS owners:
 
-As with any performance machine, regular maintenance is key to reliability and longevity. This repo helps you keep track of everything from oil changes to valve checks.
+- 🛠️ [2025 CFMoto 675SS Owner’s Manual (USA)](https://www.cfmotousa.com/assets/cfmoto/images/owners_manuals/2025-cfmoto-675ss-om-usa-20250106-web.pdf)  
+  Official U.S. manual including maintenance intervals, torque specs, and operating procedures.
+
+- 🧩 [CFMoto 675SR-R Parts Catalog (Global)](https://www.cfmotomalaysia.com.my/Source/Spare_Part/parts_catalog/675SR-R%20(U24052025)_NP.PDF)  
+  Exploded diagrams and part numbers — great for ordering OEM components or understanding assembly layouts.
 
 ---
 
