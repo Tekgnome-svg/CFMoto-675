@@ -24,7 +24,7 @@ As with any performance machine, regular maintenance is key to reliability and l
 | `templates/`           | Editable maintenance templates (Excel, PDF, TXT)                            |
 | `break-in-checklist.pdf`| A printable checklist for the critical first 600 miles                     |
 | `oil-change-record.pdf`     | A digital log to track mileage, services performed, and notes              |
-| `service-log.xlsx`     | A digital log to track mileage, services performed, and notes              |
+| `service-log.pdf`     | A digital log to track mileage, services performed, and notes              |
 | `oil-change-guide.txt` | Basic DIY instructions for oil changes and filter replacement              |
 | `README.md`            | This file, explaining the project                                           |
 | `LICENSE`              | Open-source license so others can use and modify freely                    |
