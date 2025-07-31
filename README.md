@@ -71,7 +71,7 @@ This project was started by a CFMoto enthusiast to help fellow riders maintain t
 
 ## 📄 License
 
-This project is open-source under the [MIT License](LICENSE). Use it, modify it, distribute it — just don’t sell it without giving credit.
+This project is open-source under the CC BY-NC-ND 4.0 Attribution-NonCommercial-NoDerivatives
 
 ---
 
