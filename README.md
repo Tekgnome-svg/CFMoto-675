@@ -1,4 +1,4 @@
-# 🏍️ CFMoto 675SS Maintenance Templates
+# 🏍️ CFMoto 675SS Maintenance Templates & Guides
 
 Welcome to the **CFMoto 675SS Maintenance Templates** repository — your one-stop resource for tracking and managing your 675SS motorcycle’s health and service intervals. Whether you're breaking in a brand-new ride or staying on top of long-term maintenance, these templates are designed to help you do it *right*.
 
