@@ -37,6 +37,21 @@ Here are some helpful reference documents for CFMoto 675SS owners:
 
 ---
 
+
+## 📚 Tuning Options
+
+- 🛠️ [Mobile Diesel Tuning](https://www.mobiledieseltuning.com.au/)
+   - Stage 1 and stage 2 tunes for stock or modified bikes with aftermarket exhaust systems. 
+  ECU Remapping & Tuning: Includes both petrol and diesel vehicles. They optimize fuel delivery, ignition timing, and turbo performance to increase horsepower, torque, throttle response, and fuel efficiency
+  
+- 🛠️ [Team MSC](https://teammscparts.com/products/team-msc-cfmoto-675ss-ecu-tune)  
+  - Stage 1 tune for stock bikes only
+ECU tuning kit for CFMOTO 675SS by Team MSC: boosts power, torque, midrang,e and fuel efficiency; ship ECU in
+
+  
+
+---
+
 ## 📥 How to Use
 
 1. **Click into any folder or file** you want.
