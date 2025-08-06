@@ -8,6 +8,11 @@ Welcome to the **CFMoto 675SS Maintenance Templates & Guides** repository — yo
 
 Here are some helpful reference documents for CFMoto 675SS owners:
 
+
+
+- 🛠️ [2025 CFMoto 675SS Service Manual (USA)](https://www.cfmotousa.com/assets/cfmoto/images/service_manuals/my25-mcy-sm-cover-front-web_675ss.pdf)  
+  Official U.S. Service manual including maintenance, repairs, teardown, disassembly, and torque specs.
+
 - 🛠️ [2025 CFMoto 675SS Owner’s Manual (USA)](https://www.cfmotousa.com/assets/cfmoto/images/owners_manuals/2025-cfmoto-675ss-om-usa-20250106-web.pdf)  
   Official U.S. manual including maintenance intervals, torque specs, and operating procedures.
 
