@@ -46,7 +46,7 @@ Here are some helpful reference documents for CFMoto 675SS owners:
   
 - 🛠️ [Team MSC](https://teammscparts.com/products/team-msc-cfmoto-675ss-ecu-tune)  
   - Stage 1 tune for stock bikes only
-- ECU tuning kit for CFMOTO 675SS by Team MSC: boosts power, torque, midrang,e and fuel efficiency; ship ECU in
+  - ECU tuning kit for CFMOTO 675SS by Team MSC: boosts power, torque, midrang,e and fuel efficiency; ship ECU in
 
   
 
