@@ -63,6 +63,7 @@ Explore community-designed 3D-printed upgrades to enhance throttle feel and ridi
 - A direct-replacement throttle tube adapter designed to **increase throttle ramp rate**.  
 - Allows smoother throttle response and finer modulation for street riding.
 - Available on **Cults3D**: [CFMoto 675SS/SR Throttle Tube Adapter](https://cults3d.com/en/3d-printing/cfmoto-675ss-sr-throttle-tube-adapter)
+- Install time is about 10 mintues and will require a Phillips screw driver(to open cable housing) and wrench (to adjust cable slack)
 
 ### **⚡ Aggressive Ramp Rate Adapter (with Aftermarket Grips)**
 - Designed to use alongside **aggressive twist throttle behavior** and aftermarket grips.
