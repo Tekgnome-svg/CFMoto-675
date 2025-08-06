@@ -53,7 +53,26 @@ Here are some helpful reference documents for CFMoto 675SS owners:
   - $299.99 USD
 
   
+---
 
+## 🖨️ 3D Printed Parts
+
+Explore community-designed 3D-printed upgrades to enhance throttle feel and riding control for the CFMoto 675SS / 675SR-R:
+
+### **👍 Increased Throttle Ramp Rate Adapter**
+- A direct-replacement throttle tube adapter designed to **increase throttle ramp rate**.  
+- Allows smoother throttle response and finer modulation for street riding.
+- Available on **Cults3D**: [CFMoto 675SS/SR Throttle Tube Adapter](https://cults3d.com/en/3d-printing/cfmoto-675ss-sr-throttle-tube-adapter)
+
+### **⚡ Aggressive Ramp Rate Adapter (with Aftermarket Grips)**
+- Designed to use alongside **aggressive twist throttle behavior** and aftermarket grips.
+- Offers increased throttle ramp rate with sportier, more responsive control.  
+- Available on **Cults3D**: [CFMoto 675SS/SR Aggressive Throttle Tube Adapter](https://cults3d.com/en/3d-model/gadget/cfmoto-675ss-sr-aggressive-throttle-tube)
+
+---
+
+**🧠 Note:** These are **third-party, unreleased parts**. Ensure accurate dimensions and proper print settings. Install at your own risk.  
+Double-check that they don’t void your warranty or interfere with OEM throttle cables or safety features.
 ---
 
 ## 📥 How to Use
