@@ -1,7 +1,20 @@
 # 🛠️ CFMoto 675SS — Parts & Modifications Guide
 
 This guide highlights recommended upgrades, accessories, and modifications for the CFMoto 675SS to improve performance, comfort, and style.  
-All parts are sourced from reputable vendors, but verify fitment before purchasing.
+All parts are sourced from reputable vendors, but always double-check fitment before ordering.
+
+---
+
+## 📎 Quick Links
+
+- [🖨️ 3D Printed Upgrades](#%EF%B8%8F-3d-printed-upgrades)  
+- [🎒 Luggage & Storage](#-luggage--storage)  
+- [💡 Cosmetic & Functional Mods](#-cosmetic--functional-mods)  
+- [🛢️ Maintenance Parts](#-maintenance-parts)  
+- [🏪 MotoTech — OEM & Aftermarket Supplier](#-mototech--oem--aftermarket-supplier)  
+- [📑 OEM Parts Catalog for Local Dealers](#-oem-parts-catalog-for-local-dealers)  
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)  
+- [📣 Contributions](#-contributions)
 
 ---
 
@@ -42,6 +55,11 @@ Clean up the rear of the bike by replacing the large OEM fender.
 - 🛒 [K&N KN-303 on Amazon](https://www.amazon.com/dp/B000E2CVIS)  
 - OEM filters also available at CFMoto dealerships.
 
+### **CFMoto OEM Oil Change Kit**
+- Complete kit for servicing your 675SS with factory-approved parts and oil.  
+- Includes oil filter, crush washer, and CFMoto-branded engine oil.  
+- 🛒 [View on CFMoto USA](https://www.cfmotousa.com/oemcatalogs/p/2025_675ss/cfmoto_oil_lubricants/67bf578d332d4850a65c8289/oil-change-kit-675cc-motorcycle)
+
 ---
 
 ## 🏪 MotoTech — OEM & Aftermarket Supplier
@@ -63,10 +81,20 @@ MotoTech can source **almost any OEM CFMoto part** and carries a wide selection 
 
 ---
 
+## 📑 OEM Parts Catalog for Local Dealers
+
+Need to order OEM parts directly from a dealer or verify proper part numbers? Use the official parts catalog for accurate cross-referencing:
+
+- **CFMoto 675SR-R / 675SS OEM Parts Catalog**  
+  Includes detailed diagrams and part numbers for all components. Ideal when ordering parts or upgrading components to ensure compatibility.  
+  📄 [View PDF Catalog](https://www.cfmotomalaysia.com.my/Source/Spare_Part/parts_catalog/675SR-R%20(U24052025)_NP.PDF)
+
+---
+
 ## ⚠️ Disclaimer
 
-- Modifications may impact warranty coverage — check your dealer’s policy before installation.
-- Prices are **approximate** and may vary — confirm with the seller.
+- Modifications may impact warranty coverage — check your dealer’s policy before installation.  
+- Prices are **approximate** and may vary — confirm with the seller.  
 - Always follow safe installation practices and torque specifications from the service manual.
 
 ---
