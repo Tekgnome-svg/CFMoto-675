@@ -93,10 +93,27 @@ The aftermarket lowering shock **includes two thin washers** that are **critical
 
 ---
 
-## 🔧 Step 7 — Adjust Front Fork Drop
+## 🔧 Step 7 — Adjust Front Fork Height to Match Rear Drop
 
-- Lower the front forks in the triple clamps by **the same amount** as the rear drop to maintain chassis balance.  
-- Example: If the rear dropped **20 mm**, slide the front forks up **20 mm** in the triple clamps.
+Lowering the rear changes the bike’s geometry. To maintain handling balance, you should raise the front forks in the triple clamps by the **same amount the rear was lowered**.
+
+### Measuring Stock Height
+1. Place the bike on a paddock stand or otherwise secure it upright.  
+2. Using a set of **digital calipers**, measure from the **top of the fork tube** (not including the cap) to the **underside of the top triple clamp**.  
+3. On our test unit, the stock measurement was **12 mm** — yours may vary slightly.
+
+### Calculating the New Measurement
+- Take your **rear drop measurement** from Step 6.  
+- Add this value to your **stock fork height measurement** to get the **new target measurement**.  
+- **Example:** If stock is **12 mm** and your rear drop is **20 mm**, your new fork height should be **32 mm**.
+
+### Adjusting the Forks
+1. Loosen the **upper and lower pinch bolts** on one fork leg (do **not** loosen both legs at once to avoid the front end dropping unexpectedly).  
+2. Gently slide the fork tube upward in the triple clamp until the calipers read your **new target measurement**.  
+3. Tighten the **upper pinch bolts first**, then the lower bolts. Torque to manufacturer specs from the service manual.  
+4. Repeat on the other fork leg, ensuring both sides are perfectly matched.
+
+**⚠️ Tip:** Work slowly and keep the bike secure to prevent it tipping forward when loosening the pinch bolts.
 
 ---
 
