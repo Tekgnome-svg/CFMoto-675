@@ -19,7 +19,7 @@ a centralized collection of **maintenance templates**, **how-to guides**, and **
 |--------|-------------|-------------|
 | `parts-and-mods/` | Recommended upgrades, accessories, tuning, and vendor links. | [📄 View README](./Parts-%26-Modifications/readme.md) |
 | `guides/` | Step-by-step how-to guides with videos and tool/part lists. | [📄 View README](./guides/readme.md) |
-| `templates/` | Printable & digital maintenance logs and checklists. | [📄 View README](./templates/README.md) |
+| `templates/` | Printable & digital maintenance logs and checklists. | [📄 View README](./templates/readme.md) |
 
 ---
 
