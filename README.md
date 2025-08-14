@@ -1,68 +1,45 @@
-# 🏍️ CFMoto 675SS Maintenance Templates & Guides
+# 🏍️ CFMoto 675SS — Maintenance Templates, Guides & Mods
 
-Welcome to the **CFMoto 675SS Maintenance Templates & Guides** repository — your one-stop resource for tracking and managing your 675SS motorcycle’s health and service intervals. Whether you're breaking in a brand-new ride or staying on top of long-term maintenance, these templates are designed to help you do it *right*.
-
----
-
-## 📚 Useful Resources
-
-Here are some helpful reference documents for CFMoto 675SS owners:
-
-
-
-- 🛠️ [2025 CFMoto 675SS Service Manual (USA)](https://www.cfmotousa.com/assets/cfmoto/images/service_manuals/my25-mcy-sm-cover-front-web_675ss.pdf)  
-  Official U.S. Service manual including maintenance, repairs, teardown, disassembly, and torque specs.
-
-- 🛠️ [2025 CFMoto 675SS Owner’s Manual (USA)](https://www.cfmotousa.com/assets/cfmoto/images/owners_manuals/2025-cfmoto-675ss-om-usa-20250106-web.pdf)  
-  Official U.S. manual including maintenance intervals, torque specs, and operating procedures.
-
-- 🧩 [CFMoto 675SR-R Parts Catalog (Global)](https://www.cfmotomalaysia.com.my/Source/Spare_Part/parts_catalog/675SR-R%20(U24052025)_NP.PDF)  
-  Exploded diagrams and part numbers — great for ordering OEM components or understanding assembly layouts.
+Welcome to the **CFMoto 675SS Community Resource Hub** —  
+a centralized collection of **maintenance templates**, **how-to guides**, and **performance mods** for your 675SS.
 
 ---
 
-## 📁 What's in This Repo?
+## 📚 Official Reference Docs
 
-| File/Folder             | Description                                                                 |
-|------------------------|-----------------------------------------------------------------------------|
-| `templates/`           | Maintenance templates (PDF)                            |
-| `break-in-checklist.pdf`| A printable checklist for the critical first 600 miles                     |
-| `oil-change-record.pdf`     | A digital log to track mileage, services performed, and notes              |
-| `service-log.pdf`     | A digital log to track mileage, services performed, and notes              |
-| `guides/`           | Guides (TXT)                            |
-| `Coolant-Change-Guide.txt` | Basic DIY instructions for coolant changes              |
-| `oil-change-guide.txt` | Basic DIY instructions for oil changes and filter replacement              |
-| `README.md`            | This file, explaining the project                                           |
-| `LICENSE`              | Open-source license so others can use and modify freely                    |
+- 🛠️ [2025 Service Manual (USA)](https://www.cfmotousa.com/assets/cfmoto/images/service_manuals/my25-mcy-sm-cover-front-web_675ss.pdf)  
+- 🛠️ [2025 Owner’s Manual (USA)](https://www.cfmotousa.com/assets/cfmoto/images/owners_manuals/2025-cfmoto-675ss-om-usa-20250106-web.pdf)  
+- 🧩 [675SR-R OEM Parts Catalog (Global)](https://www.cfmotomalaysia.com.my/Source/Spare_Part/parts_catalog/675SR-R%20(U24052025)_NP.PDF)  
 
 ---
 
+## 📂 Repository Structure
 
-## 📚 Tuning Options
+| Folder | Description | README Link |
+|--------|-------------|-------------|
+| `parts-and-mods/` | Recommended upgrades, accessories, tuning, and vendor links. | [📄 View README](./parts-and-mods/README.md) |
+| `guides/` | Step-by-step how-to guides with videos and tool/part lists. | [📄 View README](./guides/README.md) |
+| `templates/` | Printable & digital maintenance logs and checklists. | [📄 View README](./templates/README.md) |
 
-- 🛠️ [Mobile Diesel Tuning](https://www.mobiledieseltuning.com.au/cfmoto675)
-   - Stage 1 and stage 2 tunes for stock or modified bikes with aftermarket exhaust systems. 
-  - ECU Remapping & Tuning: Includes both petrol and diesel vehicles. They optimize fuel delivery, ignition timing, and turbo performance to increase horsepower, torque, throttle response, and fuel efficiency
-  - Ship ECU in (Australia)
-  - 649 AUD
-  
-- 🛠️ [Team MSC](https://teammscparts.com/products/team-msc-cfmoto-675ss-ecu-tune)  
-  - Stage 1 tune for stock bikes only
-  - ECU tuning kit for CFMOTO 675SS by Team MSC: boosts power, torque, midrange, and fuel efficiency;
-  - ship ECU in (USA)
-  - $299.99 USD
-
-  
 ---
 
-## 🖨️ 3D Printed Parts
+## 🚀 Quick Start
 
-Explore community-designed 3D-printed upgrades to enhance throttle feel and riding control for the CFMoto 675SS / 675SR-R:
+1. Pick the folder for what you need.
+2. Open its README to see all linked guides, downloads, and vendors.
+3. Use the linked PDFs, TXT guides, or videos to complete your task.
 
-### **👍 Increased Throttle Ramp Rate Adapter**
-- A direct-replacement throttle tube adapter designed to **increase throttle ramp rate**.  
-- Allows smoother throttle response and finer modulation for street riding.
-- Available on **Cults3D**: [CFMoto 675SS/SR Throttle Tube Adapter](https://cults3d.com/en/3d-printing/cfmoto-675ss-sr-throttle-tube-adapter)
+---
+
+## 📣 Contributing
+
+Have a new guide, part source, or vendor link?  
+Submit a **pull request** or open an **issue** so we can share it with the community.
+
+---
+
+⚠️ **Disclaimer:** Always verify part fitment and torque specs.  
+Some mods may void your warranty or violate local laws.
 - Install time is about 10 mintues and will require a Phillips screw driver(to open cable housing) and wrench (to adjust cable slack)
 
 ### **⚡ Aggressive Ramp Rate Adapter (with Aftermarket Grips)**
