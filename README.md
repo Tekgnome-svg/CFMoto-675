@@ -17,8 +17,8 @@ a centralized collection of **maintenance templates**, **how-to guides**, and **
 
 | Folder | Description | README Link |
 |--------|-------------|-------------|
-| `parts-and-mods/` | Recommended upgrades, accessories, tuning, and vendor links. | [📄 View README](./parts-and-mods/README.md) |
-| `guides/` | Step-by-step how-to guides with videos and tool/part lists. | [📄 View README](./guides/README.md) |
+| `parts-and-mods/` | Recommended upgrades, accessories, tuning, and vendor links. | [📄 View README](./Parts-%26-Modifications/readme.md) |
+| `guides/` | Step-by-step how-to guides with videos and tool/part lists. | [📄 View README](./guides/readme.md) |
 | `templates/` | Printable & digital maintenance logs and checklists. | [📄 View README](./templates/README.md) |
 
 ---
