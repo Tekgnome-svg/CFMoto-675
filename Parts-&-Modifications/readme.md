@@ -140,32 +140,5 @@ Always ensure any modifications comply with **local laws**, **warranty terms**, 
 ## 📣 Contributions
 
 Have a part or mod recommendation? Open a pull request or submit an issue with details and verified links.
-| Narrowed + Lower Seat (Black) | $108.86 |
-| Smoked Double Bubble Windshield + Black Fairing | $127 |
-| Axle Slider Set (Front & Rear) | $38 |
-
----
-
-## 📑 OEM Parts Catalog for Local Dealers
-
-Need to order OEM parts directly from a dealer or verify proper part numbers? Use the official parts catalog for accurate cross-referencing:
-
-- **CFMoto 675SR-R / 675SS OEM Parts Catalog**  
-  Includes detailed diagrams and part numbers for all components. Ideal when ordering parts or upgrading components to ensure compatibility.  
-  📄 [View PDF Catalog](https://www.cfmotomalaysia.com.my/Source/Spare_Part/parts_catalog/675SR-R%20(U24052025)_NP.PDF)
-
----
-
-## ⚠️ Disclaimer
-
-- Modifications may impact warranty coverage — check your dealer’s policy before installation.  
-- Prices are **approximate** and may vary — confirm with the seller.  
-- Always follow safe installation practices and torque specifications from the service manual.
-
----
-
-## 📣 Contributions
-
-Have a recommended part or mod for the 675SS? Open a pull request and share your setup!
 
 ---
