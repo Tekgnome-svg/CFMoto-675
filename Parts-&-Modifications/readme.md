@@ -121,6 +121,8 @@ MotoTech can source **almost any OEM CFMoto part** and carries a wide selection 
 | Smoked Double Bubble Windshield (Black Fairing) | $127 |
 | Axle Slider Set (Front & Rear) | $38 |
 | 675ss/sr ECU | $277 |
+| 675ss/sr Friction Plate + Steel Plate FCC | $193.55 |
+| 675ss/sr Upgraded Clutch Springs | $27.53 |
 
 ---
 
