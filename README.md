@@ -44,6 +44,23 @@ Some mods may void your warranty or violate local laws.
 
 ---
 
+## 👤 About the Creator
+This project is maintained by **Tekgnome**, the original creator of:  
+- [Allymods.com](https://wayback.archive.org/web/*/allymods.com)  
+- [Handheldmodz.com](https://wayback.archive.org/web/*/handheldmodz.com)  
+
+Both sites were dedicated to pushing the boundaries of handheld modding — and this GitHub project continues that legacy.  
+
+Beyond handhelds, I also explore:  
+- 🏍️ **Motorcycles** — including tuning and flash mods for the **CFMoto 675SS**  
+- 🖨️ **3D Printing** — custom parts, prototyping, and modding  
+- 🚗 **Cars** — projects on my **Alfa Romeo Giulia** and **1965 Mercury Cyclone**  
+
+Whether it’s optimizing a gaming handheld, unlocking performance in a sportbike, or restoring classic cars, the goal is always the same:  
+**make tech more open, customizable, and fun.**  
+
+---
+
 ## 📣 Shoutout
 
 This project was started by a CFMoto enthusiast to help fellow riders maintain their bikes without relying solely on dealerships or digging through scattered forum posts. If it helps you, consider giving the repo a ⭐️ or sharing it with others!
