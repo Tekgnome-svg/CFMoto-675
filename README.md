@@ -52,7 +52,7 @@ This project is maintained by **Tekgnome**, the original creator of:
 Both sites were dedicated to pushing the boundaries of handheld modding — and this GitHub project continues that legacy.  
 
 Beyond handhelds, I also explore:  
-- 🏍️ **Motorcycles** — including tuning and flash mods for the **CFMoto 675SS**  
+- 🏍️ **Motorcycles** — including mods for my **CFMoto 675SS**  
 - 🖨️ **3D Printing** — custom parts, prototyping, and modding  
 - 🚗 **Cars** — projects on my **Alfa Romeo Giulia** and **1965 Mercury Cyclone**  
 
