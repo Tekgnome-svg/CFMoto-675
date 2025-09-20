@@ -31,6 +31,14 @@ Changing the oil regularly is critical for engine longevity.
 
 ---
 
+## Removing the exhaust system
+
+Since the exhaust is a 1 piece design here's guide that goes over how to remove it for upgrades
+
+- 📄 [Written Exhaust Removal (GitHub)](https://github.com/Tekgnome-svg/CFMoto-675/blob/main/guides/exhaust-removal-guide.md) — Includes tools list and parts needed
+
+---
+
 ## 📌 Notes
 
 - Always let the bike cool before working on the exhaust, engine, or coolant system.  
