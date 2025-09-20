@@ -119,10 +119,13 @@ MotoTech can source **almost any OEM CFMoto part** and carries a wide selection 
 | -20mm Lowering Shock (Gas Canister) | $208 |
 | Narrowed + Lower Seat (Black) | $108.86 |
 | Smoked Double Bubble Windshield (Black Fairing) | $127 |
+| 675SS Racing Windshield (White&Smoked | $170 |
 | Axle Slider Set (Front & Rear) | $38 |
 | 675ss/sr ECU | $277 |
 | 675ss/sr Friction Plate + Steel Plate FCC | $193.55 |
 | 675ss/sr Upgraded Clutch Springs | $27.53 |
+| 675ss Racing Windglet | $80 |
+| 675ss Front Fender (White) | $88 |
 
 ---
 
