@@ -27,7 +27,7 @@ Correct throttle cable tension improves throttle response and prevents slack.
 Changing the oil regularly is critical for engine longevity.
 
 - 📺 [Video Guide (YouTube)](https://www.youtube.com/watch?v=OKGOi2Hq9vY) — Visual step-by-step  
-- 📄 [Written Oil Change Guide (GitHub)](https://github.com/Tekgnome-svg/CFMoto-675/blob/main/guides/Oil-Change-Guide.txt) — Includes tools list and parts needed
+- 📄 [Written Oil Change Guide (GitHub)](https://github.com/Tekgnome-svg/CFMoto-675/blob/main/guides/Oil-Change-Guide.md) — Includes tools list and parts needed
 
 ---
 
