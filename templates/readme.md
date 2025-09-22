@@ -1,35 +1,35 @@
-# 📄 CFMoto 675SS — Maintenance Templates
+# 🏍️ CFMoto 675SS — Templates
 
-This folder contains **printable and digital templates** to help you track and manage your CFMoto 675SS maintenance.  
-These files are designed for easy record-keeping, whether you prefer to print them or use them digitally.
-
----
-
-## 📂 Available Templates
-
-| File | Description |
-|------|-------------|
-| **break-in-checklist.pdf** | Checklist for the critical **first 600 miles (1,000 km)**, covering all required break-in inspections and services. |
-| **oil-change-record.pdf** | Log sheet for tracking oil changes, mileage, date, oil type, and filter used. |
-| **service-log.pdf** | General-purpose maintenance log for tracking all services, upgrades, and repairs. |
+This folder contains useful templates for tracking maintenance, service, and break-in procedures for your CFMoto 675SS. Use these PDFs and records to keep your bike in top condition and maintain accurate logs.  
 
 ---
 
-## 🖨️ How to Use
+## 📄 Templates
 
-1. **Download** the desired PDF file from this folder.
-2. **Print** a hard copy or open it on your tablet/PC for digital use.
-3. **Fill out** details after each maintenance task.
+### 1. Break-In Checklist
+Ensure your engine and components are properly broken in for longevity and performance.  
 
----
-
-## 🛠️ Recommended Use
-
-- Keep a printed copy in your **garage or workshop**.
-- Store a digital copy on your phone or computer for **quick access**.
-- Keep your logs updated for **warranty purposes** and **resale value**.
+- [Break-In Checklist (PDF)](https://github.com/Tekgnome-svg/CFMoto-675/blob/main/templates/break-in-checklist.pdf)  
 
 ---
 
-⚠️ **Note:**  
-Always follow the **CFMoto 675SS Owner’s Manual** and **Service Manual** for official maintenance intervals and torque specs.
+### 2. Oil Change Record
+Keep a detailed log of oil changes to track service intervals and maintain warranty compliance.  
+
+- [Oil Change Record (PDF)](https://github.com/Tekgnome-svg/CFMoto-675/blob/main/templates/oil-change-record.pdf)  
+
+---
+
+### 3. Service Log
+Record all maintenance, inspections, and part replacements to maintain a full service history.  
+
+- [Service Log (PDF)](https://github.com/Tekgnome-svg/CFMoto-675/blob/main/templates/service-log.pdf)   
+
+---
+
+## 📌 Notes
+- Always keep digital backups of your service records.  
+- Fill out logs promptly after each maintenance task.  
+- Use the break-in checklist for any newly purchased or rebuilt engines.  
+
+---
