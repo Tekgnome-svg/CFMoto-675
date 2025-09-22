@@ -1,0 +1,30 @@
+# 🔋 CFMoto 675SS — Battery Maintenance & Charging
+
+Guide for checking, maintaining, and charging your battery.
+
+---
+
+## Materials Needed
+- Multimeter
+- Battery charger (smart charger recommended)
+- Rubber gloves
+- Clean cloth
+
+---
+
+## Notes
+- Battery: 12V, 8Ah (or OEM spec)  
+- Keep terminals clean and corrosion-free.  
+- Charge in a well-ventilated area.  
+
+---
+
+## Instructions
+
+1. Remove seat to access battery.  
+2. Check battery voltage: fully charged ~12.6V.  
+3. Inspect terminals for corrosion; clean with cloth or baking soda solution.  
+4. If voltage <12V, connect smart charger to battery.  
+5. Set charger to 12V and allow to fully charge.  
+6. Disconnect charger, reinstall battery, and reconnect terminals.  
+7. Test ignition and lights.
