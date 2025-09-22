@@ -31,11 +31,36 @@ Changing the oil regularly is critical for engine longevity.
 
 ---
 
-## Removing the exhaust system
+## ❄️ Coolant Change
 
-Since the exhaust is a 1 piece design here's guide that goes over how to remove it for upgrades
+Maintaining proper coolant levels is essential to prevent engine overheating.
 
-- 📄 [Written Exhaust Removal (GitHub)](https://github.com/Tekgnome-svg/CFMoto-675/blob/main/guides/exhaust-removal-guide.md) — Includes tools list and parts needed
+- 📄 [Written Coolant Change Guide (GitHub)](https://github.com/Tekgnome-svg/CFMoto-675/blob/main/guides/Coolant%20Change%20Guide.md)
+
+---
+
+## 🔧 Suspension & Shocks
+
+Adjusting suspension improves handling and ride comfort.  
+
+- 📄 [Lowering Shock Installation (GitHub)](https://github.com/Tekgnome-svg/CFMoto-675/blob/main/guides/Lowering%20Shock%20Installation.md)  
+- 📄 [Suspension Adjustment Guide (GitHub)](https://github.com/Tekgnome-svg/CFMoto-675/blob/main/guides/Suspension%20Adjustment%20Guide.md)
+
+---
+
+## 🛞 Wheel Removal
+
+For tire replacement or brake maintenance.
+
+- 📄 [Wheel Removal Guide (GitHub)](https://github.com/Tekgnome-svg/CFMoto-675/blob/main/guides/Wheel%20Removal%20Guide.md)
+
+---
+
+## 🔊 Exhaust System
+
+Since the exhaust is a 1-piece design, this guide covers removal for upgrades.
+
+- 📄 [Written Exhaust Removal (GitHub)](https://github.com/Tekgnome-svg/CFMoto-675/blob/main/guides/Exhaust-Removal-Guide.md) — Includes tools list and parts needed
 
 ---
 
