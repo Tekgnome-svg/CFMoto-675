@@ -1,4 +1,4 @@
-# ⚙️ CFMoto 675SS — Valve Clearance & Spark Plug / Coil Guide
+# ⚙️ CFMoto 675SS — Valve Clearance Adjustment
 
 Guide to inspecting and adjusting valve clearances and removing/installing ignition coils and spark plugs.  
 This engine uses shims (tappets) under the bucket to set valve clearance.
