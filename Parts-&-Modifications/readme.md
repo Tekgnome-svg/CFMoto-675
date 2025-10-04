@@ -47,7 +47,7 @@ All parts are sourced from reputable vendors, but always double-check fitment be
 - 💰 649 AUD.
 
 #### 🛠️ [Team MSC](https://teammscparts.com/products/team-msc-cfmoto-675ss-ecu-tune)
-- Stage 1 tune for stock bikes only.  
+- Stage 1 and Stage 2 tunes for stock or modified bikes with aftermarket exhaust systems.  
 - Boosts power, torque, midrange, and fuel efficiency.  
 - Ship ECU in (USA).  
 - 💰 $299.99 USD.
